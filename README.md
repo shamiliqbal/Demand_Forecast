@@ -6,16 +6,16 @@ Designed for real-world FMCG retail environments, the pipeline uses memory-effic
 
 🔑 Key Features
 
-Processes multiple daily exports automatically
+-Processes multiple daily exports automatically
 
-Extracts reporting dates from file names
+-Extracts reporting dates from file names
 
-Filters by business units and departments
+-Filters by business units and departments
 
-Computes inventory and sales KPIs
+-Computes inventory and sales KPIs
 
-Aggregates data for validation reporting
+-Aggregates data for validation reporting
 
-Handles very large datasets efficiently
+-Handles very large datasets efficiently
 
-Produces ready-to-use CSV reports for analysis, purchase planning, and inventory replenishment
+-Produces ready-to-use CSV reports for analysis, purchase planning, and inventory replenishment
